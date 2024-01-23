@@ -1,4 +1,4 @@
-# TicTacToe_C-
+# TicTacToe
 
 This was an assignment for the Codecademy "Learn C++" course.  It was a fun project to complete, as I have made similar games with Python, and it was interesting to see how it differed building it in another language.
 
